@@ -1,0 +1,4 @@
+## COMANDOS GIT
+
+#git init
+
